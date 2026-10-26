@@ -1,4 +1,4 @@
-# 📊 ThermoAcoustix: Edge-Based Thermo-Acoustic Anomaly Detection System
+# 📊 ThermoAcoustix: Edge-Based Anomaly Detection System
 
 ---
 
